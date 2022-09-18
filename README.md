@@ -7,11 +7,11 @@ Feature request challenge modifying Horiseon's marketing page
 N/A
 
 ## Changes 
-Modified the elements inside the HTML to be more friendly to screen readers
-Compiled elements in the css file to clean things up
-Added alt tags to images
-Changed title of page to display company name
-Fixed broken link to search engine optimization area
+Modified the elements inside the HTML to be more friendly to screen readers </br>
+Compiled elements in the css file to clean things up </br>
+Added alt tags to images </br>
+Changed title of page to display company name </br>
+Fixed broken link to search engine optimization area </br>
 
 ## Usage
 WHEN you view the title element </br>
