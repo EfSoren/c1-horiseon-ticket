@@ -14,18 +14,18 @@ Changed title of page to display company name
 Fixed broken link to search engine optimization area
 
 ## Usage
-WHEN you view the title element
-THEN you will find Horiseon Social Media Marketing
-WHEN you use the provided links
-THEN they will direct you around the webpage
-WHEN you view the source code
-THEN you will find semantic HTML elements
-WHEN you view the structure of the HTML elements
-THEN you will find the elements in a logical structure
-WHEN you view the image and icon elements
-THEN you will find relevant alt attributes
-WHEN you view the heading elements
-THEN you will find them placed in sequential order
+WHEN you view the title element </br>
+THEN you will find Horiseon Social Media Marketing </br>
+WHEN you use the provided links </br>
+THEN they will direct you around the webpage </br>
+WHEN you view the source code </br>
+THEN you will find semantic HTML elements </br>
+WHEN you view the structure of the HTML elements </br>
+THEN you will find the elements in a logical structure </br>
+WHEN you view the image and icon elements </br>
+THEN you will find relevant alt attributes </br>
+WHEN you view the heading elements </br>
+THEN you will find them placed in sequential order </br>
 
 ## Credits
 N/A
