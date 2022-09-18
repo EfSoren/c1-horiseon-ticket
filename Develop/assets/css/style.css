@@ -7,6 +7,33 @@
 body {
     background-color: #d9dcd6;
 }
+/* Removed classes and combined h1, h2, h3 ,and h4 elements */
+h1 {
+    display: inline-block;
+    font-size: 48px;
+
+}
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+h4 {
+    font-size: 20px;
+}
+/* Shifted anchor and paragraph tags up */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
 
 .header {
     padding: 20px;
@@ -15,10 +42,6 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
 
 .header h1 .seo {
     color: #d9dcd6;
@@ -39,15 +62,6 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -85,7 +99,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* I changed the h elements due to them being identical, */
+/* I am choosing to leave the classes between 103-174 as they are because it will be easier to edit them in the future if changes need to be made */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -99,21 +114,6 @@ p {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 .benefit-lead img {
@@ -173,28 +173,9 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
 }
